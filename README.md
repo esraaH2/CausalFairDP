@@ -51,16 +51,11 @@ CausalFairDP evolved through **four progressive models**, each improving fairnes
 
 ---
 
-### 📊 Summary of Improvement
-
-- ⚙️ **Loss reduction:** from 0.40 → **0.21** (≈ 48% improvement)  
-- ⚖️ **Fairness gain:** SPD reduced by **>60%**  
-- 🔒 **Privacy:** DP guarantees with ε = 1.0  
-- 🔗 **Causality:** Preserved 6 major edges (e.g., education ↔ income)  
-- ✅ **Overall quality:** ~95% fidelity compared to real data  
 
 @article{CausalFairDP2025,
-  title={CausalFairDP: Fair and Privacy-Preserving Synthetic Data Generation with Causal Structure Preservation using Diffusion Models},
-  author={Esraa Halboup},
-  year={2025},
+  title     = {CausalFairDP: Fair and Privacy-Preserving Synthetic Data Generation with Causal Structure Preservation using Diffusion Models},
+  author    = {Esraa Halboup},
+  year      = {2025},
+  note      = {GitHub Repository: https://github.com/esraaH2/CausalFairDP}
+}
 
